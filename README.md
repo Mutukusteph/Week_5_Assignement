@@ -1,7 +1,7 @@
 # Week_5_Assignement
-OOP Assignment
+OOP Assignment.
 
-# Assignement 1: Designing my own class
+# Assignement 1: Designing my own class.
 ## Creating a class representing anythig I like (a Smartphone, Book, or a Superhero)
 ## Adding attributes and methods to bring the class to life
 ## Using constructors to initialize each object with unique values.
